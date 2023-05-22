@@ -3,7 +3,8 @@
 <!--
 **cuarezdani/cuarezdani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:![github-header-image (2)](https://github.com/cuarezdani/cuarezdani/assets/122620323/15ba19b3-8113-400a-af64-c57c7cd780d2)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
