@@ -1,5 +1,8 @@
 ![github-header-image (2)](https://github.com/cuarezdani/cuarezdani/assets/122620323/15ba19b3-8113-400a-af64-c57c7cd780d2) 
 
+<!-- <br />
+<img align="center" height="270px" width="450px" alt="GIF" src="https://media4.giphy.com/media/nbr4zVb3rQKsIR3o5d/giphy.gif?cid=ecf05e47eyjn08nd7bui0chfwmdxdym7wofqnorfj61e1cg0&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<br /> -->
 ___
 
 ### :woman: Sobre mi
