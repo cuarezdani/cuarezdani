@@ -1,6 +1,10 @@
 <!-- ![github-header-image (2)](https://github.com/cuarezdani/cuarezdani/assets/122620323/15ba19b3-8113-400a-af64-c57c7cd780d2) -->
 ### <h1> ***Hola, soy Daniela!*** :wave:</h1>
 
+<a href="https://www.linkedin.com/in/danielacuarez/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+
 ### :woman: Sobre mi  
 <img align="right" height="150px" width="250px" alt="GIF" src="https://media1.giphy.com/media/e8qvtPuCyKXI4qJK7d/giphy.gif?cid=ecf05e479k37icqh6orafcceysaeyxoxazpq5un7m8796bkj&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
 
