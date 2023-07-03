@@ -27,6 +27,7 @@ ___
 
 * [x] [Front End Developer](https://www.laboratoria.la/)
 * [x] [Scrum Master & Product Owner](https://www.credly.com/badges/17ad2393-479e-42e2-88e7-cde9c762b3ed)
+* [x] [Desarrollo Web Front-End](https://www.credential.net/05bc88dc-5944-42e8-a77c-aed0acbf010f)
 
 ___
 
