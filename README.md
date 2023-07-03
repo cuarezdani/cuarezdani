@@ -30,6 +30,10 @@ ___
 
 ___
 
+### :mortar_board: Actualmente estudiando
+ <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=00c8ff">
+
+___
 ### :iphone: Conectate conmigo 
 
   <a href="https://www.linkedin.com/in/danielacuarez/">
@@ -39,5 +43,6 @@ ___
   <!-- <a href=" "> -->
   <!--  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white"> -->
   <!-- </a> -->
+
 
 
