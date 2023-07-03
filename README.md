@@ -19,15 +19,14 @@ ___
 
 ### :computer: Lenguajes y herramientas 
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&Color=ffffff">   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">   <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">   <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">   <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">   <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">  <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&Color=ffffff">   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">   <img src="https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=00c8ff">   <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">   <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">   <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">   <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">   <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
 ___
 
 ### :mortar_board: Mis certificados 
 
-* [x] [Front End Developer](https://www.laboratoria.la/)
-* [x] [Scrum Master & Product Owner](https://www.credly.com/badges/17ad2393-479e-42e2-88e7-cde9c762b3ed)
 * [x] [Desarrollo Web Front-End](https://www.credential.net/05bc88dc-5944-42e8-a77c-aed0acbf010f)
+* [x] [Scrum Master & Product Owner](https://www.credly.com/badges/17ad2393-479e-42e2-88e7-cde9c762b3ed)
 
 ___
 
