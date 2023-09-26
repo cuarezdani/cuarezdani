@@ -23,14 +23,15 @@ ___
 
 ___
 
-### :mortar_board: Mis certificados 
+### :mortar_board: :tada: Mis certificados 
 
+* [x] [Angular Desde Cero A Experto](https://www.udemy.com/certificate/UC-96dcc1d7-a6da-4d25-9428-cecd4dd053da/)
 * [x] [Desarrollo Web Front-End](https://www.credential.net/05bc88dc-5944-42e8-a77c-aed0acbf010f)
 * [x] [Scrum Master & Product Owner](https://www.credly.com/badges/17ad2393-479e-42e2-88e7-cde9c762b3ed)
 
 ___
 
-### :mortar_board: Actualmente estudiando
+### 📚 Actualmente estudiando
  <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=00c8ff">
 
 ___
